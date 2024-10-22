@@ -1,0 +1,79 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "hashim",
+      "email": "hashim@gmail.com",
+      "phone": 9961041488,
+      "role": "admin",
+      "address": "meledath house",
+      "password": "123456"
+    },
+    {
+      "name": "sinan c",
+      "email": "sinan@gmail.com",
+      "phone": 9941024667,
+      "address": "sinan home",
+      "role": "employee",
+      "password": "123456",
+      "confirmPassword": "123456",
+      "id": 2
+    },
+    {
+      "name": "sougandh",
+      "email": "sougandh@gmail.com",
+      "phone": 9941024634,
+      "address": "sougandh home",
+      "role": "employee",
+      "password": "123456",
+      "confirmPassword": "123456",
+      "id": 3
+    }
+  ],
+  "feedback": [
+    {
+      "id": 1,
+      "feedback": "anu of thus",
+      "date": "2024-10-16T10:42:33.247Z"
+    },
+    {
+      "feedback": "this is our requirements",
+      "date": "2024-10-16T10:42:33.247Z",
+      "id": 2
+    },
+    {
+      "feedback": "hi dear",
+      "date": "2024-10-16T10:47:44.774Z",
+      "id": 3
+    },
+    {
+      "feedback": "i have trobled a issues",
+      "date": "2024-10-16T11:22:41.476Z",
+      "id": 4
+    },
+    {
+      "feedback": "hi dear i complet work",
+      "date": "2024-10-16T11:35:31.075Z",
+      "id": 6
+    }
+  ],
+  "assignTask": [
+    {
+      "id": 1,
+      "userId": 1,
+      "task": "hashim get work",
+      "date": "2024-10-16T11:22:41.476Z"
+    },
+    {
+      "userId": 2,
+      "task": "you are complete the project with in two weeks",
+      "id": 2
+    },
+    {
+      "userId": 3,
+      "task": "sougandh you are complete the work with in5 day. as the client handle the proeject. all testing are complete us. and get by handle in develop team with in three days. ",
+      "date": "2024-10-17T08:07:18.758Z",
+      "id": 3
+    }
+  ]
+}
